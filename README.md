@@ -1,4 +1,5 @@
 # COLOR_CONVERSIONS_OF-IMAGE
+
 ## AIM
 Write a Python program using OpenCV that performs the following tasks:
 
@@ -21,9 +22,12 @@ viii)	Write and Save the Modified Image
 
 ## Software Required:
 Anaconda - Python 3.7
+
 ## Algorithm:
+
 ### Step1:
 Load an image from your local directory and display it.
+
 ### Step2:
 o	Draw a line from the top-left to the bottom-right of the image.
 o	Draw a circle at the center of the image.
@@ -42,8 +46,10 @@ o	Modify the color of the pixel at (200, 200) to white.
 
 ### Step5:
 o	Resize the original image to half its size and display it.
+
 ### Step6:
 o	Crop a region of interest (ROI) from the image (e.g., a 100x100 pixel area starting at (50, 50)) and display it.
+
 ### Step7:
 o	Flip the original image horizontally and display it.
 o	Flip the original image vertically and display it.
@@ -53,8 +59,10 @@ o	Save the final modified image to your local directory.
 
 
 ##### Program:
+
 ### Developed By: 
 SANJAY S
+
 ### Register Number: 
 212222230132
 
